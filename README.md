@@ -3,5 +3,5 @@ Plain-English breakdowns of research ideas, focusing on the core abstractions so
 
 ## Contents
 <!-- papers:start -->
-_No papers yet._
+- [optimal bounds open addressing without reordering](computer-science/optimal-bounds-open-addressing-without-reordering.md)
 <!-- papers:end -->
